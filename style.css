@@ -4,10 +4,12 @@ body {
 
 }
 .thingy {
-    border: 2px;
+    border: 20px;
     border-color: red;
     height: 10px;
-    width: 50px;
+    width: 100px;
     position: fixed;
-    
+    background-color: #41e057;
+    right: 10px;
+
 }
